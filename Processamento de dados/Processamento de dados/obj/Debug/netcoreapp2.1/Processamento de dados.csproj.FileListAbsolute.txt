@@ -1,0 +1,10 @@
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\bin\Debug\netcoreapp2.1\Processamento de dados.deps.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\bin\Debug\netcoreapp2.1\Processamento de dados.runtimeconfig.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\bin\Debug\netcoreapp2.1\Processamento de dados.runtimeconfig.dev.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\bin\Debug\netcoreapp2.1\Processamento de dados.dll
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\bin\Debug\netcoreapp2.1\Processamento de dados.pdb
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\obj\Debug\netcoreapp2.1\Processamento de dados.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\obj\Debug\netcoreapp2.1\Processamento de dados.AssemblyInfoInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\obj\Debug\netcoreapp2.1\Processamento de dados.AssemblyInfo.cs
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\obj\Debug\netcoreapp2.1\Processamento de dados.dll
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\Processamento de dados\Processamento de dados\obj\Debug\netcoreapp2.1\Processamento de dados.pdb

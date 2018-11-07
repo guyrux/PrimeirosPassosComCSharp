@@ -1,0 +1,7 @@
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe.config
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.pdb
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csprojAssemblyReference.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.exe
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\01 primeiro projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.pdb

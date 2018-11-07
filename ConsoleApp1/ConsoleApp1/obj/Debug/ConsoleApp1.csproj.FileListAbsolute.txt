@@ -1,0 +1,6 @@
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

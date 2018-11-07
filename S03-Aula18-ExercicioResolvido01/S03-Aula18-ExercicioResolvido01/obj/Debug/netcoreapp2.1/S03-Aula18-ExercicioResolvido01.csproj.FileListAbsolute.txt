@@ -1,0 +1,10 @@
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\obj\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\obj\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.AssemblyInfoInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\obj\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.AssemblyInfo.cs
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\bin\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.deps.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\bin\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.runtimeconfig.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\bin\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.runtimeconfig.dev.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\bin\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.dll
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\bin\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.pdb
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\obj\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.dll
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula18-ExercicioResolvido01\S03-Aula18-ExercicioResolvido01\obj\Debug\netcoreapp2.1\S03-Aula18-ExercicioResolvido01.pdb

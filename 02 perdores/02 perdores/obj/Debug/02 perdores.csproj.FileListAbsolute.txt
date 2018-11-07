@@ -1,0 +1,6 @@
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\02 perdores\02 perdores\bin\Debug\02 perdores.exe
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\02 perdores\02 perdores\bin\Debug\02 perdores.exe.config
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\02 perdores\02 perdores\bin\Debug\02 perdores.pdb
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\02 perdores\02 perdores\obj\Debug\02 perdores.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\02 perdores\02 perdores\obj\Debug\02 perdores.exe
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\02 perdores\02 perdores\obj\Debug\02 perdores.pdb

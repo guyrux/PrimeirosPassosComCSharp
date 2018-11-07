@@ -1,0 +1,10 @@
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\bin\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.deps.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\bin\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.runtimeconfig.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\bin\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.runtimeconfig.dev.json
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\bin\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.dll
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\bin\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.pdb
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\obj\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\obj\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.AssemblyInfoInputs.cache
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\obj\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.AssemblyInfo.cs
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\obj\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.dll
+G:\Meu Drive\Courses\C#\C# primeiros passos Lógica de Programação e Algoritmos\S03-Aula16-EntradaDeDados\S03-Aula16-EntradaDeDados\obj\Debug\netcoreapp2.1\S03-Aula16-EntradaDeDados.pdb
